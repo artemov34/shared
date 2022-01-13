@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'lib-modal',
   template: `
     <p>
-      modal works!
+      modal works!!
     </p>
   `,
   styles: [
