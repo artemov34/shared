@@ -5,7 +5,11 @@
     "@angular/common": "^12.0.0",
     "@angular/core": "^12.0.0"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "tslib": "^2.1.0"
-  }
+  },
+  "gitHead": "029effd8825ca3cd57d8108122a038e013004d14"
 }
